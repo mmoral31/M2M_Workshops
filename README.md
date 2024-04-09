@@ -11,3 +11,7 @@ The structure of the file:\
 **Column 10:** Distance to Transcription Start Site (TSS)\
 **Column 16:** Nearest Gene\
 **Column 18:** Gene Type for Nearest Gene (e.g. protein-coding)\
+
+
+### Workshop 3: Best Practices for Data Storage and Management
+For today's workshop, we'll be using a series of FASTQ files to demonstrate compression and file transfer
